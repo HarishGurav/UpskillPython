@@ -1,0 +1,1967 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "description": "This is the description for Frontend Developer covering skills HTML, CSS, JavaScript, Angular, Responsive Design.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "Responsive Design"
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 5,
+        "title": "Responsive Web Design",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/responsive-web-design"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "description": "This is the description for Backend Developer covering skills Python, Django, REST APIs, PostgreSQL.",
+    "skills": [
+      "Python",
+      "Django",
+      "REST APIs",
+      "PostgreSQL"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      },
+      {
+        "id": 9,
+        "title": "PostgreSQL Basics",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/postgresql-for-beginners/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "description": "This is the description for Full Stack Developer covering skills JavaScript, Python, React, Node.js, SQL.",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Data Scientist",
+    "description": "This is the description for Data Scientist covering skills Python, Machine Learning, Pandas, NumPy.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "NumPy"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 13,
+        "title": "Machine Learning by Andrew Ng",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/machine-learning"
+      },
+      {
+        "id": 14,
+        "title": "Data Analysis with Pandas",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/data-analysis-with-pandas-and-numpy/"
+      },
+      {
+        "id": 15,
+        "title": "NumPy for Data Analysis",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/numpy-for-data-analysis/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "description": "This is the description for DevOps Engineer covering skills Docker, Kubernetes, AWS, CI/CD.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD"
+    ],
+    "courses": [
+      {
+        "id": 16,
+        "title": "Docker Mastery",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/docker-mastery/"
+      },
+      {
+        "id": 17,
+        "title": "Kubernetes for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/learn-kubernetes/"
+      },
+      {
+        "id": 18,
+        "title": "AWS Cloud Practitioner",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "React Developer",
+    "description": "This is the description for React Developer covering skills JavaScript, React, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Angular Developer",
+    "description": "This is the description for Angular Developer covering skills JavaScript, TypeScript, Angular, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 19,
+        "title": "Understanding TypeScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/understanding-typescript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Node.js Developer",
+    "description": "This is the description for Node.js Developer covering skills Node.js, Express.js, JavaScript, MongoDB, SQL.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 20,
+        "title": "Express.js Fundamentals",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/expressjs/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Java Developer",
+    "description": "This is the description for Java Developer covering skills Java, Spring Boot, SQL, REST APIs.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 21,
+        "title": "Java Masterclass",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+      },
+      {
+        "id": 22,
+        "title": "Spring Boot for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/spring-boot-tutorial/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Python Developer",
+    "description": "This is the description for Python Developer covering skills Python, Flask, Django, SQL, REST APIs.",
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 23,
+        "title": "Flask Web Development",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/python-and-flask-bootcamp-create-websites/"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Machine Learning Engineer",
+    "description": "This is the description for Machine Learning Engineer covering skills HTML, CSS, JavaScript, Angular, Responsive Design.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "Responsive Design"
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 5,
+        "title": "Responsive Web Design",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/responsive-web-design"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Cloud Engineer",
+    "description": "This is the description for Cloud Engineer covering skills Python, Django, REST APIs, PostgreSQL.",
+    "skills": [
+      "Python",
+      "Django",
+      "REST APIs",
+      "PostgreSQL"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      },
+      {
+        "id": 9,
+        "title": "PostgreSQL Basics",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/postgresql-for-beginners/"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Mobile App Developer",
+    "description": "This is the description for Mobile App Developer covering skills JavaScript, Python, React, Node.js, SQL.",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "UI/UX Designer",
+    "description": "This is the description for UI/UX Designer covering skills Python, Machine Learning, Pandas, NumPy.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "NumPy"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 13,
+        "title": "Machine Learning by Andrew Ng",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/machine-learning"
+      },
+      {
+        "id": 14,
+        "title": "Data Analysis with Pandas",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/data-analysis-with-pandas-and-numpy/"
+      },
+      {
+        "id": 15,
+        "title": "NumPy for Data Analysis",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/numpy-for-data-analysis/"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "QA Engineer",
+    "description": "This is the description for QA Engineer covering skills Docker, Kubernetes, AWS, CI/CD.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD"
+    ],
+    "courses": [
+      {
+        "id": 16,
+        "title": "Docker Mastery",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/docker-mastery/"
+      },
+      {
+        "id": 17,
+        "title": "Kubernetes for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/learn-kubernetes/"
+      },
+      {
+        "id": 18,
+        "title": "AWS Cloud Practitioner",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Security Analyst",
+    "description": "This is the description for Security Analyst covering skills JavaScript, React, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Database Administrator",
+    "description": "This is the description for Database Administrator covering skills JavaScript, TypeScript, Angular, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 19,
+        "title": "Understanding TypeScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/understanding-typescript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Systems Analyst",
+    "description": "This is the description for Systems Analyst covering skills Node.js, Express.js, JavaScript, MongoDB, SQL.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 20,
+        "title": "Express.js Fundamentals",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/expressjs/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Software Architect",
+    "description": "This is the description for Software Architect covering skills Java, Spring Boot, SQL, REST APIs.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 21,
+        "title": "Java Masterclass",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+      },
+      {
+        "id": 22,
+        "title": "Spring Boot for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/spring-boot-tutorial/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Scrum Master",
+    "description": "This is the description for Scrum Master covering skills Python, Flask, Django, SQL, REST APIs.",
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 23,
+        "title": "Flask Web Development",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/python-and-flask-bootcamp-create-websites/"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "AI Engineer",
+    "description": "This is the description for AI Engineer covering skills HTML, CSS, JavaScript, Angular, Responsive Design.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "Responsive Design"
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 5,
+        "title": "Responsive Web Design",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/responsive-web-design"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Big Data Engineer",
+    "description": "This is the description for Big Data Engineer covering skills Python, Django, REST APIs, PostgreSQL.",
+    "skills": [
+      "Python",
+      "Django",
+      "REST APIs",
+      "PostgreSQL"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      },
+      {
+        "id": 9,
+        "title": "PostgreSQL Basics",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/postgresql-for-beginners/"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Software Tester",
+    "description": "This is the description for Software Tester covering skills JavaScript, Python, React, Node.js, SQL.",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Product Manager",
+    "description": "This is the description for Product Manager covering skills Python, Machine Learning, Pandas, NumPy.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "NumPy"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 13,
+        "title": "Machine Learning by Andrew Ng",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/machine-learning"
+      },
+      {
+        "id": 14,
+        "title": "Data Analysis with Pandas",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/data-analysis-with-pandas-and-numpy/"
+      },
+      {
+        "id": 15,
+        "title": "NumPy for Data Analysis",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/numpy-for-data-analysis/"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Business Analyst",
+    "description": "This is the description for Business Analyst covering skills Docker, Kubernetes, AWS, CI/CD.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD"
+    ],
+    "courses": [
+      {
+        "id": 16,
+        "title": "Docker Mastery",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/docker-mastery/"
+      },
+      {
+        "id": 17,
+        "title": "Kubernetes for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/learn-kubernetes/"
+      },
+      {
+        "id": 18,
+        "title": "AWS Cloud Practitioner",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Site Reliability Engineer",
+    "description": "This is the description for Site Reliability Engineer covering skills JavaScript, React, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Embedded Systems Developer",
+    "description": "This is the description for Embedded Systems Developer covering skills JavaScript, TypeScript, Angular, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 19,
+        "title": "Understanding TypeScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/understanding-typescript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Game Developer",
+    "description": "This is the description for Game Developer covering skills Node.js, Express.js, JavaScript, MongoDB, SQL.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 20,
+        "title": "Express.js Fundamentals",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/expressjs/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "AR/VR Developer",
+    "description": "This is the description for AR/VR Developer covering skills Java, Spring Boot, SQL, REST APIs.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 21,
+        "title": "Java Masterclass",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+      },
+      {
+        "id": 22,
+        "title": "Spring Boot for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/spring-boot-tutorial/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Software Consultant",
+    "description": "This is the description for Software Consultant covering skills Python, Flask, Django, SQL, REST APIs.",
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 23,
+        "title": "Flask Web Development",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/python-and-flask-bootcamp-create-websites/"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "ERP Developer",
+    "description": "This is the description for ERP Developer covering skills HTML, CSS, JavaScript, Angular, Responsive Design.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "Responsive Design"
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 5,
+        "title": "Responsive Web Design",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/responsive-web-design"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Salesforce Developer",
+    "description": "This is the description for Salesforce Developer covering skills Python, Django, REST APIs, PostgreSQL.",
+    "skills": [
+      "Python",
+      "Django",
+      "REST APIs",
+      "PostgreSQL"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      },
+      {
+        "id": 9,
+        "title": "PostgreSQL Basics",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/postgresql-for-beginners/"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Blockchain Developer",
+    "description": "This is the description for Blockchain Developer covering skills JavaScript, Python, React, Node.js, SQL.",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Cybersecurity Engineer",
+    "description": "This is the description for Cybersecurity Engineer covering skills Python, Machine Learning, Pandas, NumPy.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "NumPy"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 13,
+        "title": "Machine Learning by Andrew Ng",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/machine-learning"
+      },
+      {
+        "id": 14,
+        "title": "Data Analysis with Pandas",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/data-analysis-with-pandas-and-numpy/"
+      },
+      {
+        "id": 15,
+        "title": "NumPy for Data Analysis",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/numpy-for-data-analysis/"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "IT Support Specialist",
+    "description": "This is the description for IT Support Specialist covering skills Docker, Kubernetes, AWS, CI/CD.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD"
+    ],
+    "courses": [
+      {
+        "id": 16,
+        "title": "Docker Mastery",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/docker-mastery/"
+      },
+      {
+        "id": 17,
+        "title": "Kubernetes for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/learn-kubernetes/"
+      },
+      {
+        "id": 18,
+        "title": "AWS Cloud Practitioner",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Computer Vision Engineer",
+    "description": "This is the description for Computer Vision Engineer covering skills JavaScript, React, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "NLP Engineer",
+    "description": "This is the description for NLP Engineer covering skills JavaScript, TypeScript, Angular, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 19,
+        "title": "Understanding TypeScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/understanding-typescript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Data Engineer",
+    "description": "This is the description for Data Engineer covering skills Node.js, Express.js, JavaScript, MongoDB, SQL.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 20,
+        "title": "Express.js Fundamentals",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/expressjs/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "IoT Developer",
+    "description": "This is the description for IoT Developer covering skills Java, Spring Boot, SQL, REST APIs.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 21,
+        "title": "Java Masterclass",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+      },
+      {
+        "id": 22,
+        "title": "Spring Boot for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/spring-boot-tutorial/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Software Trainer",
+    "description": "This is the description for Software Trainer covering skills Python, Flask, Django, SQL, REST APIs.",
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 23,
+        "title": "Flask Web Development",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/python-and-flask-bootcamp-create-websites/"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Frontend Lead",
+    "description": "This is the description for Frontend Lead covering skills HTML, CSS, JavaScript, Angular, Responsive Design.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "Responsive Design"
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 5,
+        "title": "Responsive Web Design",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/responsive-web-design"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Backend Lead",
+    "description": "This is the description for Backend Lead covering skills Python, Django, REST APIs, PostgreSQL.",
+    "skills": [
+      "Python",
+      "Django",
+      "REST APIs",
+      "PostgreSQL"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      },
+      {
+        "id": 9,
+        "title": "PostgreSQL Basics",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/postgresql-for-beginners/"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Full Stack Lead",
+    "description": "This is the description for Full Stack Lead covering skills JavaScript, Python, React, Node.js, SQL.",
+    "skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Technical Lead",
+    "description": "This is the description for Technical Lead covering skills Python, Machine Learning, Pandas, NumPy.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "NumPy"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 13,
+        "title": "Machine Learning by Andrew Ng",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/machine-learning"
+      },
+      {
+        "id": 14,
+        "title": "Data Analysis with Pandas",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/data-analysis-with-pandas-and-numpy/"
+      },
+      {
+        "id": 15,
+        "title": "NumPy for Data Analysis",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/numpy-for-data-analysis/"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Release Manager",
+    "description": "This is the description for Release Manager covering skills Docker, Kubernetes, AWS, CI/CD.",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "CI/CD"
+    ],
+    "courses": [
+      {
+        "id": 16,
+        "title": "Docker Mastery",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/docker-mastery/"
+      },
+      {
+        "id": 17,
+        "title": "Kubernetes for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/learn-kubernetes/"
+      },
+      {
+        "id": 18,
+        "title": "AWS Cloud Practitioner",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Cloud Solutions Architect",
+    "description": "This is the description for Cloud Solutions Architect covering skills JavaScript, React, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 10,
+        "title": "React Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/react-the-complete-guide/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Mobile Solutions Architect",
+    "description": "This is the description for Mobile Solutions Architect covering skills JavaScript, TypeScript, Angular, HTML, CSS.",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "HTML",
+      "CSS"
+    ],
+    "courses": [
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 19,
+        "title": "Understanding TypeScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/understanding-typescript/"
+      },
+      {
+        "id": 4,
+        "title": "Angular Complete Guide",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/the-complete-guide-to-angular/"
+      },
+      {
+        "id": 1,
+        "title": "Frontend with HTML & CSS",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/html-css-javascript"
+      },
+      {
+        "id": 2,
+        "title": "CSS Essentials",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/css-essential-training/"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "BI Developer",
+    "description": "This is the description for BI Developer covering skills Node.js, Express.js, JavaScript, MongoDB, SQL.",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "MongoDB",
+      "SQL"
+    ],
+    "courses": [
+      {
+        "id": 11,
+        "title": "Node.js Essentials",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/nodejs"
+      },
+      {
+        "id": 20,
+        "title": "Express.js Fundamentals",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/expressjs/"
+      },
+      {
+        "id": 3,
+        "title": "Modern JavaScript",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/modern-javascript/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Integration Specialist",
+    "description": "This is the description for Integration Specialist covering skills Java, Spring Boot, SQL, REST APIs.",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 21,
+        "title": "Java Masterclass",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/"
+      },
+      {
+        "id": 22,
+        "title": "Spring Boot for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/spring-boot-tutorial/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "RPA Developer",
+    "description": "This is the description for RPA Developer covering skills Python, Flask, Django, SQL, REST APIs.",
+    "skills": [
+      "Python",
+      "Flask",
+      "Django",
+      "SQL",
+      "REST APIs"
+    ],
+    "courses": [
+      {
+        "id": 6,
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "link": "https://www.coursera.org/specializations/python"
+      },
+      {
+        "id": 23,
+        "title": "Flask Web Development",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/python-and-flask-bootcamp-create-websites/"
+      },
+      {
+        "id": 7,
+        "title": "Django for Beginners",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/django-for-beginners/"
+      },
+      {
+        "id": 12,
+        "title": "SQL Bootcamp",
+        "platform": "Udemy",
+        "link": "https://www.udemy.com/course/sql-bootcamp/"
+      },
+      {
+        "id": 8,
+        "title": "REST API Design",
+        "platform": "Pluralsight",
+        "link": "https://www.pluralsight.com/courses/restful-api-design"
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
  
 import json
 from typing import List
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from .data import skills
 from fastapi.middleware.cors import CORSMiddleware
@@ -36,7 +36,7 @@ def get_skills():
     )
 
 # Load jobs data from JSON
-with open("app/jobProfiles.json") as f:
+with open("app/projectData.json") as f:
     jobs = json.load(f)
 
 # Request model
@@ -63,6 +63,7 @@ def match_jobs(request: SkillsRequest):
                 "title": job["title"],
                 "description": job["description"],
                 "skills": job["skills"],
+                "id":job['id'],
                 "matched_count": matched_count  # optional, for sorting
             })
 
@@ -86,20 +87,25 @@ def match_jobs(request: SkillsRequest):
     )
     return top_jobs
 
-    user_skills = set([skill.lower() for skill in request.skills])  # case-insensitive match
-    matched_jobs = []
+@app.get("/courses/{job_id}")
+def get_courses_by_job(job_id: int):
+    """
+    Returns the courses for a given job profile ID.
+    """
+    # Find job by ID
+    job = next((job for job in jobs if job["id"] == job_id), None)
+    
+    if not job:
+        raise HTTPException(status_code=404, detail=f"Job with id {job_id} not found")
+    
+    # Return courses only
+    return JSONResponse(
+        content={
+            "status": "success",
+            "job_title": job["title"],
+            "courses": job["courses"]
+        },
+        status_code=200,
+        headers={"X-Job-Courses": "Available"}
+    )
 
-    for job in jobs:
-        job_skills = set([skill.lower() for skill in job["skills"]])
-        intersection = user_skills & job_skills
-        if intersection:
-            matched_jobs.append({
-                "title": job["title"],
-                "description": job["description"],
-                "skills": job["skills"]
-            })
-
-    # Optional: sort by number of matched skills (most relevant first)
-    matched_jobs.sort(key=lambda j: len(set([s.lower() for s in j["skills"]]) & user_skills), reverse=True)
-
-    return matched_jobs
