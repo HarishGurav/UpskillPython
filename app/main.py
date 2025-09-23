@@ -6,6 +6,7 @@ from pydantic import BaseModel
 from .data import skills
 from fastapi.middleware.cors import CORSMiddleware
 import os
+from fastapi.responses import JSONResponse
 
 app = FastAPI()
 origins = [
@@ -25,7 +26,14 @@ print(os.getcwd())
 # API 1: Get list of skills
 @app.get("/skills")
 def get_skills():
-    return {"skills": skills}
+     return JSONResponse(
+        status_code=200,
+        content={
+            "status": "success",
+            "data": skills
+        },
+        headers={"X-Custom-Header": "JobAPI"}
+    )
 
 # Load jobs data from JSON
 with open("app/jobProfiles.json") as f:
@@ -62,12 +70,20 @@ def match_jobs(request: SkillsRequest):
     matched_jobs.sort(key=lambda j: j["matched_count"], reverse=True)
 
     # Return only top 5 matches
-    top_jobs = matched_jobs[:5]
+    top_jobs = matched_jobs[:3]
 
     # Remove the 'matched_count' key before returning
     for job in top_jobs:
         job.pop("matched_count", None)
 
+    return JSONResponse(
+        status_code=200,
+        content={
+            "status": "success",
+            "data": top_jobs
+        },
+        headers={"X-Custom-Header": "JobAPI"}
+    )
     return top_jobs
 
     user_skills = set([skill.lower() for skill in request.skills])  # case-insensitive match
