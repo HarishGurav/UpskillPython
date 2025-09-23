@@ -1,0 +1,542 @@
+[
+  {
+    "title": "Front-End Developer",
+    "description": "Builds user-facing features of web applications, ensures good UI/UX, responsive design, and browser compatibility.",
+    "skills": ["HTML", "CSS", "JavaScript", "Angular", "React"]
+  },
+  {
+    "title": "Back-End Developer",
+    "description": "Develops server-side logic, manages databases, and integrates APIs for web applications.",
+    "skills": ["Node.js", "Express.js", "Django", "Flask", "SQL", "NoSQL"]
+  },
+  {
+    "title": "Full-Stack Developer",
+    "description": "Works on both front-end and back-end development, ensuring smooth integration of all components.",
+    "skills": ["JavaScript", "HTML", "CSS", "React", "Angular", "Node.js", "SQL"]
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Automates software deployment, manages CI/CD pipelines, and maintains cloud infrastructure.",
+    "skills": ["Docker", "Kubernetes", "CI/CD", "AWS", "Azure", "GCP"]
+  },
+  {
+    "title": "Software Engineer",
+    "description": "Designs, develops, and maintains software applications focusing on reliability, scalability, and performance.",
+    "skills": ["Java", "Python", "C#", "OOP", "Data Structures", "Algorithms"]
+  },
+  {
+    "title": "Mobile App Developer",
+    "description": "Develops mobile applications for Android and iOS with responsive design and API integration.",
+    "skills": ["JavaScript", "React", "Mobile App Development", "REST APIs"]
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "Designs and maintains cloud infrastructure and services across multiple platforms.",
+    "skills": ["AWS", "Azure", "GCP", "Microservices", "Docker", "Kubernetes"]
+  },
+  {
+    "title": "Database Developer",
+    "description": "Designs, implements, and maintains database systems ensuring data integrity and performance.",
+    "skills": ["SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL"]
+  },
+  {
+    "title": "QA Engineer",
+    "description": "Performs testing and validation of software to ensure quality and bug-free releases.",
+    "skills": ["Unit Testing", "Integration Testing", "TDD", "BDD", "Debugging"]
+  },
+  {
+    "title": "Software Architect",
+    "description": "Defines system architecture, design patterns, and ensures scalable and maintainable software solutions.",
+    "skills": ["Microservices", "Cloud Architecture", "OOP", "Performance Optimization"]
+  },
+  {
+    "title": "Backend Java Developer",
+    "description": "Develops backend systems using Java frameworks ensuring high performance and reliability.",
+    "skills": ["Java", "Spring Boot", "REST APIs", "SQL", "OOP"]
+  },
+  {
+    "title": "Python Developer",
+    "description": "Writes scalable and maintainable code in Python for web applications and data processing.",
+    "skills": ["Python", "Django", "Flask", "REST APIs", "OOP"]
+  },
+  {
+    "title": "Angular Developer",
+    "description": "Builds dynamic web applications using Angular framework and ensures responsive design.",
+    "skills": ["Angular", "TypeScript", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "React Developer",
+    "description": "Develops interactive web interfaces with React and integrates with backend APIs.",
+    "skills": ["React", "JavaScript", "HTML", "CSS", "REST APIs"]
+  },
+  {
+    "title": "Node.js Developer",
+    "description": "Develops server-side applications with Node.js and ensures efficient API integrations.",
+    "skills": ["Node.js", "Express.js", "JavaScript", "REST APIs", "SQL"]
+  },
+  {
+    "title": "Vue.js Developer",
+    "description": "Builds progressive web applications using Vue.js and integrates with backend services.",
+    "skills": ["Vue.js", "JavaScript", "HTML", "CSS", "REST APIs"]
+  },
+  {
+    "title": "TypeScript Developer",
+    "description": "Develops robust and scalable applications using TypeScript with modern frameworks.",
+    "skills": ["TypeScript", "Angular", "React", "Node.js", "OOP"]
+  },
+  {
+    "title": "Microservices Developer",
+    "description": "Designs and develops microservices architectures for scalable applications.",
+    "skills": ["Microservices", "Node.js", "Spring Boot", "Docker", "Kubernetes"]
+  },
+  {
+    "title": "API Developer",
+    "description": "Builds and maintains REST and GraphQL APIs ensuring secure and high-performance endpoints.",
+    "skills": ["REST APIs", "GraphQL", "Node.js", "Django", "Flask"]
+  },
+  {
+    "title": "Cloud Solutions Architect",
+    "description": "Designs cloud solutions and strategies for deployment and scalability of enterprise applications.",
+    "skills": ["AWS", "Azure", "GCP", "Cloud Architecture", "Microservices"]
+  },
+  {
+    "title": "Security Engineer",
+    "description": "Implements security best practices, audits systems, and ensures secure application deployment.",
+    "skills": ["Web Security", "OAuth", "JWT", "Debugging", "Performance Optimization"]
+  },
+  {
+    "title": "Software QA Lead",
+    "description": "Leads QA team, defines testing strategies, and ensures high-quality releases.",
+    "skills": ["Unit Testing", "Integration Testing", "TDD", "BDD", "Agile Methodologies"]
+  },
+  {
+    "title": "Scrum Master",
+    "description": "Facilitates Agile development processes and ensures team follows Scrum practices.",
+    "skills": ["Scrum", "Agile Methodologies", "Jira", "Communication", "Integration Testing"]
+  },
+  {
+    "title": "Cloud DevOps Engineer",
+    "description": "Manages cloud infrastructure and automates CI/CD pipelines for scalable applications.",
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "CI/CD"]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Builds ML models and integrates them into software applications.",
+    "skills": ["Python", "Data Structures", "Algorithms", "OOP"]
+  },
+  {
+    "title": "Data Engineer",
+    "description": "Designs and maintains data pipelines for processing and storage.",
+    "skills": ["SQL", "NoSQL", "Python", "ETL", "Data Structures"]
+  },
+  {
+    "title": "Software Performance Engineer",
+    "description": "Optimizes software for performance and scalability.",
+    "skills": ["Performance Optimization", "Debugging", "Microservices", "OOP"]
+  },
+  {
+    "title": "Integration Engineer",
+    "description": "Integrates software components and ensures smooth API connectivity.",
+    "skills": ["Integration Testing", "REST APIs", "GraphQL", "Node.js"]
+  },
+  {
+    "title": "System Analyst",
+    "description": "Analyzes system requirements and collaborates with developers for implementation.",
+    "skills": ["OOP", "Data Structures", "Algorithms", "Debugging"]
+  },
+  {
+    "title": "Backend C# Developer",
+    "description": "Develops backend services using C# and .NET frameworks.",
+    "skills": ["C#", "OOP", "SQL", "REST APIs"]
+  },
+  {
+    "title": "Software Consultant",
+    "description": "Advises clients on software solutions and system optimizations.",
+    "skills": ["Cloud Architecture", "Microservices", "Performance Optimization", "OOP"]
+  },
+  {
+    "title": "Technical Lead",
+    "description": "Leads development teams, ensures best practices, and maintains code quality.",
+    "skills": ["OOP", "Agile Methodologies", "Scrum", "Microservices", "Performance Optimization"]
+  },
+  {
+    "title": "Cloud Native Developer",
+    "description": "Develops applications optimized for cloud environments and microservices.",
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Microservices"]
+  },
+  {
+    "title": "GraphQL Developer",
+    "description": "Builds APIs and integrates GraphQL endpoints for efficient data fetching.",
+    "skills": ["GraphQL", "Node.js", "Django", "Flask", "REST APIs"]
+  },
+  {
+    "title": "Software Build Engineer",
+    "description": "Manages build processes, CI/CD pipelines, and deployment scripts.",
+    "skills": ["CI/CD", "Git", "GitHub", "Docker", "Kubernetes"]
+  },
+  {
+    "title": "REST API Developer",
+    "description": "Creates RESTful services and integrates them with frontend and other systems.",
+    "skills": ["REST APIs", "Node.js", "Django", "Flask", "SQL"]
+  },
+  {
+    "title": "PostgreSQL Developer",
+    "description": "Designs and manages PostgreSQL databases for application backends.",
+    "skills": ["PostgreSQL", "SQL", "NoSQL", "OOP"]
+  },
+  {
+    "title": "MongoDB Developer",
+    "description": "Manages MongoDB databases and ensures optimal performance for applications.",
+    "skills": ["MongoDB", "NoSQL", "Node.js", "REST APIs"]
+  },
+  {
+    "title": "Git Specialist",
+    "description": "Manages version control, branching strategies, and Git workflows.",
+    "skills": ["Git", "GitHub", "CI/CD", "Debugging"]
+  },
+  {
+    "title": "Software Debugging Engineer",
+    "description": "Identifies and fixes software issues across applications and systems.",
+    "skills": ["Debugging", "Unit Testing", "Integration Testing", "OOP"]
+  },
+  {
+    "title": "Cloud Integration Engineer",
+    "description": "Integrates cloud services and ensures seamless communication between systems.",
+    "skills": ["AWS", "Azure", "GCP", "Microservices", "Docker", "Kubernetes"]
+  },
+  {
+    "title": "Enterprise Software Developer",
+    "description": "Develops large-scale enterprise applications with complex business logic.",
+    "skills": ["Java", "Python", "Spring Boot", "Django", "OOP"]
+  },
+  {
+    "title": "Software Security Analyst",
+    "description": "Audits code, monitors security vulnerabilities, and implements security best practices.",
+    "skills": ["Web Security", "OAuth", "JWT", "Debugging"]
+  },
+  {
+    "title": "Agile Coach",
+    "description": "Guides teams to adopt Agile methodologies and improves development efficiency.",
+    "skills": ["Scrum", "Agile Methodologies", "Jira", "Integration Testing"]
+  },
+  {
+    "title": "CI/CD Specialist",
+    "description": "Maintains continuous integration pipelines and automates deployments.",
+    "skills": ["CI/CD", "Docker", "Kubernetes", "Git", "GitHub"]
+  },
+  {
+    "title": "Agile Developer",
+    "description": "Implements software solutions following Agile principles and ensures rapid delivery of features.",
+    "skills": ["Agile Methodologies", "Scrum", "OOP", "JavaScript", "Python"]
+  },
+  {
+    "title": "Backend Python Developer",
+    "description": "Develops backend services and APIs using Python and related frameworks.",
+    "skills": ["Python", "Django", "Flask", "REST APIs", "SQL"]
+  },
+  {
+    "title": "Frontend React Developer",
+    "description": "Creates interactive web interfaces using React and ensures responsive user experience.",
+    "skills": ["React", "JavaScript", "HTML", "CSS", "REST APIs"]
+  },
+  {
+    "title": "Full-Stack JavaScript Developer",
+    "description": "Builds end-to-end web applications using JavaScript frameworks on both frontend and backend.",
+    "skills": ["JavaScript", "Node.js", "React", "Angular", "HTML", "CSS"]
+  },
+  {
+    "title": "Software QA Automation Engineer",
+    "description": "Develops automated tests to ensure the quality of software applications.",
+    "skills": ["Unit Testing", "Integration Testing", "TDD", "BDD", "Debugging"]
+  },
+  {
+    "title": "Database Administrator",
+    "description": "Manages and maintains databases ensuring performance, security, and reliability.",
+    "skills": ["SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL"]
+  },
+  {
+    "title": "Cloud Platform Engineer",
+    "description": "Deploys and manages cloud applications across AWS, Azure, and GCP platforms.",
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Microservices"]
+  },
+  {
+    "title": "Node.js Backend Developer",
+    "description": "Builds scalable backend services and APIs using Node.js and Express.js.",
+    "skills": ["Node.js", "Express.js", "JavaScript", "REST APIs", "SQL"]
+  },
+  {
+    "title": "Angular Frontend Developer",
+    "description": "Develops dynamic web applications using Angular and TypeScript.",
+    "skills": ["Angular", "TypeScript", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Vue.js Frontend Developer",
+    "description": "Builds modern web applications using Vue.js framework with reactive interfaces.",
+    "skills": ["Vue.js", "JavaScript", "HTML", "CSS", "REST APIs"]
+  },
+  {
+    "title": "Software Performance Engineer",
+    "description": "Analyzes and optimizes software performance to ensure scalability and efficiency.",
+    "skills": ["Performance Optimization", "Debugging", "Microservices", "OOP"]
+  },
+  {
+    "title": "Backend C++ Developer",
+    "description": "Develops high-performance backend applications using C++ programming language.",
+    "skills": ["C++", "OOP", "Data Structures", "Algorithms"]
+  },
+  {
+    "title": "Microservices Architect",
+    "description": "Designs and implements microservices architecture for scalable and maintainable applications.",
+    "skills": ["Microservices", "Docker", "Kubernetes", "Cloud Architecture", "OOP"]
+  },
+  {
+    "title": "REST API Specialist",
+    "description": "Develops and maintains RESTful services with secure and optimized endpoints.",
+    "skills": ["REST APIs", "Node.js", "Django", "Flask", "SQL"]
+  },
+  {
+    "title": "GraphQL Engineer",
+    "description": "Designs and implements GraphQL APIs for efficient and flexible data fetching.",
+    "skills": ["GraphQL", "Node.js", "Django", "Flask", "REST APIs"]
+  },
+  {
+    "title": "CI/CD Engineer",
+    "description": "Automates build, test, and deployment pipelines for continuous software delivery.",
+    "skills": ["CI/CD", "Docker", "Kubernetes", "Git", "GitHub"]
+  },
+  {
+    "title": "Cloud Automation Engineer",
+    "description": "Implements automation scripts and tools for cloud infrastructure management.",
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "CI/CD"]
+  },
+  {
+    "title": "Software Technical Lead",
+    "description": "Leads development teams, mentors engineers, and ensures code quality and architecture standards.",
+    "skills": ["OOP", "Agile Methodologies", "Scrum", "Performance Optimization", "Microservices"]
+  },
+  {
+    "title": "Backend Spring Boot Developer",
+    "description": "Develops backend services using Java Spring Boot framework with REST APIs and database integration.",
+    "skills": ["Java", "Spring Boot", "SQL", "OOP", "REST APIs"]
+  },
+  {
+    "title": "Python Django Developer",
+    "description": "Builds scalable backend applications and APIs using Python Django framework.",
+    "skills": ["Python", "Django", "REST APIs", "SQL", "OOP"]
+  },
+  {
+    "title": "React Native Mobile Developer",
+    "description": "Develops cross-platform mobile applications using React Native framework.",
+    "skills": ["React", "JavaScript", "Mobile App Development", "REST APIs"]
+  },
+  {
+    "title": "Cloud Security Engineer",
+    "description": "Implements security policies and best practices for cloud applications.",
+    "skills": ["Web Security", "OAuth", "JWT", "AWS", "Azure"]
+  },
+  {
+    "title": "Software Integration Specialist",
+    "description": "Integrates multiple software systems and ensures seamless API communication.",
+    "skills": ["Integration Testing", "REST APIs", "GraphQL", "Node.js", "OOP"]
+  },
+  {
+    "title": "Backend .NET Developer",
+    "description": "Develops backend services using C# and .NET framework for enterprise applications.",
+    "skills": ["C#", "OOP", "SQL", "REST APIs"]
+  },
+  {
+    "title": "Software QA Lead",
+    "description": "Manages QA team, defines testing strategies, and ensures high-quality software releases.",
+    "skills": ["Unit Testing", "Integration Testing", "TDD", "BDD", "Agile Methodologies"]
+  },
+  {
+    "title": "Agile Scrum Master",
+    "description": "Facilitates Agile ceremonies and ensures the team follows Scrum principles.",
+    "skills": ["Scrum", "Agile Methodologies", "Jira", "Integration Testing"]
+  },
+  {
+    "title": "Software Consultant",
+    "description": "Provides expert guidance on software design, architecture, and best practices.",
+    "skills": ["Cloud Architecture", "Microservices", "Performance Optimization", "OOP"]
+  },
+  {
+    "title": "Mobile Application Developer",
+    "description": "Builds and maintains mobile applications with smooth UI/UX and backend integration.",
+    "skills": ["Mobile App Development", "React", "REST APIs", "JavaScript"]
+  },
+  {
+    "title": "Enterprise Software Engineer",
+    "description": "Develops large-scale enterprise solutions and integrates multiple systems.",
+    "skills": ["Java", "Python", "Spring Boot", "Django", "OOP"]
+  },
+  {
+    "title": "Cloud Solutions Engineer",
+    "description": "Designs and implements cloud-based solutions ensuring scalability and reliability.",
+    "skills": ["AWS", "Azure", "GCP", "Cloud Architecture", "Docker"]
+  },
+  {
+    "title": "Software Performance Analyst",
+    "description": "Analyzes software performance metrics and optimizes applications for efficiency.",
+    "skills": ["Performance Optimization", "Debugging", "OOP", "Microservices"]
+  },
+  {
+    "title": "Backend JavaScript Developer",
+    "description": "Builds scalable server-side applications using JavaScript frameworks and Node.js.",
+    "skills": ["JavaScript", "Node.js", "Express.js", "REST APIs", "SQL"]
+  },
+  {
+    "title": "Frontend Developer",
+    "description": "Develops responsive and interactive web interfaces with modern frontend frameworks.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Angular"]
+  },
+  {
+    "title": "TypeScript Developer",
+    "description": "Creates robust applications using TypeScript and modern frontend or backend frameworks.",
+    "skills": ["TypeScript", "Angular", "React", "Node.js", "OOP"]
+  },
+  {
+    "title": "Software Debugging Specialist",
+    "description": "Identifies, analyzes, and fixes software bugs across multiple applications.",
+    "skills": ["Debugging", "Unit Testing", "Integration Testing", "OOP"]
+  },
+  {
+    "title": "API Integration Engineer",
+    "description": "Integrates APIs and third-party services into applications ensuring reliability.",
+    "skills": ["REST APIs", "GraphQL", "Node.js", "Django", "Flask"]
+  },
+  {
+    "title": "Cloud Infrastructure Developer",
+    "description": "Develops and maintains cloud-native applications and infrastructure components.",
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Microservices"]
+  },
+  {
+    "title": "Database Performance Engineer",
+    "description": "Optimizes databases for performance, scalability, and reliability in software applications.",
+    "skills": ["SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL"]
+  },
+  {
+    "title": "Backend Spring Developer",
+    "description": "Develops backend services using Java Spring framework with focus on RESTful APIs.",
+    "skills": ["Java", "Spring Boot", "SQL", "OOP", "REST APIs"]
+  },
+  {
+    "title": "Python Flask Developer",
+    "description": "Builds lightweight backend services and APIs using Flask framework in Python.",
+    "skills": ["Python", "Flask", "REST APIs", "SQL", "OOP"]
+  },
+  {
+    "title": "React Frontend Engineer",
+    "description": "Develops dynamic and interactive web interfaces using React framework.",
+    "skills": ["React", "JavaScript", "HTML", "CSS", "REST APIs"]
+  },
+  {
+    "title": "Node.js Microservices Developer",
+    "description": "Builds microservices architecture using Node.js for scalable applications.",
+    "skills": ["Node.js", "Microservices", "Docker", "Kubernetes", "REST APIs"]
+  },
+  {
+    "title": "Software Technical Consultant",
+    "description": "Advises clients on software architecture, cloud strategy, and best development practices.",
+    "skills": ["Cloud Architecture", "Microservices", "Performance Optimization", "OOP"]
+  },
+  {
+    "title": "Mobile Full-Stack Developer",
+    "description": "Develops both mobile frontend and backend applications ensuring seamless integration.",
+    "skills": ["Mobile App Development", "React", "Node.js", "REST APIs", "JavaScript"]
+  },
+  {
+    "title": "Cloud DevOps Specialist",
+    "description": "Implements DevOps practices for cloud applications and ensures CI/CD pipelines are efficient.",
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "CI/CD"]
+  },
+  {
+    "title": "Software Architecture Lead",
+    "description": "Leads architecture design decisions for software projects ensuring scalability and maintainability.",
+    "skills": ["OOP", "Microservices", "Cloud Architecture", "Performance Optimization"]
+  },
+  {
+    "title": "Backend Developer C#",
+    "description": "Develops enterprise backend systems using C# and .NET framework.",
+    "skills": ["C#", "OOP", "SQL", "REST APIs"]
+  },
+  {
+    "title": "Agile Project Coordinator",
+    "description": "Coordinates agile projects, monitors sprints, and ensures smooth delivery of tasks.",
+    "skills": ["Scrum", "Agile Methodologies", "Jira", "Integration Testing"]
+  },
+  {
+    "title": "Software Quality Engineer",
+    "description": "Ensures software quality through testing, analysis, and best practices implementation.",
+    "skills": ["Unit Testing", "Integration Testing", "TDD", "BDD", "Debugging"]
+  },
+  {
+    "title": "GraphQL API Developer",
+    "description": "Develops GraphQL APIs for modern web applications ensuring flexibility and efficiency.",
+    "skills": ["GraphQL", "Node.js", "Django", "REST APIs", "SQL"]
+  },
+  {
+    "title": "Cloud Solutions Developer",
+    "description": "Builds cloud-based applications with focus on scalability, reliability, and microservices architecture.",
+    "skills": ["AWS", "Azure", "GCP", "Microservices", "Docker", "Kubernetes"]
+  },
+  {
+    "title": "Full-Stack Angular Developer",
+    "description": "Develops full-stack applications using Angular for frontend and Node.js for backend.",
+    "skills": ["Angular", "TypeScript", "Node.js", "REST APIs", "SQL"]
+  },
+  {
+    "title": "Performance Optimization Engineer",
+    "description": "Analyzes and improves software application performance and efficiency.",
+    "skills": ["Performance Optimization", "Debugging", "OOP", "Microservices"]
+  },
+  {
+    "title": "Backend Developer Java",
+    "description": "Develops backend services and APIs using Java and Spring Boot framework.",
+    "skills": ["Java", "Spring Boot", "SQL", "REST APIs", "OOP"]
+  },
+  {
+    "title": "Python Backend Engineer",
+    "description": "Builds Python-based backend systems and REST APIs for scalable applications.",
+    "skills": ["Python", "Django", "Flask", "REST APIs", "OOP"]
+  },
+  {
+    "title": "Cloud Application Developer",
+    "description": "Develops cloud-native applications and deploys them on AWS, Azure, or GCP platforms.",
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Microservices"]
+  },
+  {
+    "title": "Database Optimization Engineer",
+    "description": "Improves database performance and maintains data integrity for applications.",
+    "skills": ["SQL", "NoSQL", "MongoDB", "PostgreSQL", "MySQL"]
+  },
+  {
+    "title": "Backend Developer Node.js",
+    "description": "Builds backend APIs and services using Node.js and integrates with frontend applications.",
+    "skills": ["Node.js", "Express.js", "JavaScript", "REST APIs", "SQL"]
+  },
+  {
+    "title": "Frontend Web Developer",
+    "description": "Develops interactive and responsive web applications using modern frontend frameworks.",
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Angular"]
+  },
+  {
+    "title": "TypeScript Full-Stack Developer",
+    "description": "Builds full-stack applications using TypeScript, Angular, and Node.js backend services.",
+    "skills": ["TypeScript", "Angular", "Node.js", "OOP", "REST APIs"]
+  },
+  {
+    "title": "Software Debugging Specialist",
+    "description": "Troubleshoots, identifies, and resolves software defects and issues.",
+    "skills": ["Debugging", "Unit Testing", "Integration Testing", "OOP"]
+  },
+  {
+    "title": "API Integration Developer",
+    "description": "Integrates various APIs and ensures seamless communication between systems.",
+    "skills": ["REST APIs", "GraphQL", "Node.js", "Django", "Flask"]
+  },
+  {
+    "title": "Cloud Infrastructure Engineer",
+    "description": "Builds and maintains cloud infrastructure and ensures high availability and scalability.",
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Microservices"]
+  }
+]
